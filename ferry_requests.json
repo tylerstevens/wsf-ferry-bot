@@ -1,10 +1,16 @@
 [
   {
     "terminal_from": "anacortes",
-    "terminal_to": "friday harbor",
-    "sailing_date": "08/21/2025",
+    "terminal_to": "orcas island",
+    "sailing_date": "08/08/2026",
+    "vehicle_size": "normal",
+    "vehicle_height": "normal"
+  },
+  {
+    "terminal_from": "orcas island",
+    "terminal_to": "anacortes",
+    "sailing_date": "08/14/2026",
     "vehicle_size": "normal",
     "vehicle_height": "normal"
   }
 ]
-
